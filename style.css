@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(59, 75, 82);
+   ;
+}
+ #score{  
+  display: block;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  
+ }
+
+.box{
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+ 
+  border: 5px solid;
+  border-color: black;
+  border-radius: 20px;
+  
+}
+.bb{
+  display: flex;
+
+  justify-content: center;
+}
+ 
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.flash{
+  background-color: white;
+}
