@@ -1,2 +1,2 @@
 # Game-SimonSays
-Simple mMind Exercise Game
+Simple Mind Exercise Game
